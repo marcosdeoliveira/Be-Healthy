@@ -7,3 +7,6 @@ Utilizando uma ESP8266 como web server e um módulo acelerômetro ADXL345 fixado
 
 Existem várias bibliotecas diferentes para o ADXL345, mas aqui foi utilizada a 
 <a href="https://github.com/jarzebski/Arduino-ADXL345" target="_blank">Arduino-ADXL345</a>
+
+A página de visualização é uma transcrição do arquivo [Index](Be-Healthy/index.html) que foi feita utilizando o conversor <a href="https://github.com/marcosdeoliveira/HTMLtoString" target="_blank">HTMLtoString</a>
+
