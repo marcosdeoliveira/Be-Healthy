@@ -11,5 +11,5 @@ Existem várias bibliotecas diferentes para o ADXL345, mas aqui foi utilizada a
 A página de visualização é uma transcrição do arquivo [Index](Be-Healthy/index.html) que foi feita utilizando o conversor <a href="https://github.com/marcosdeoliveira/HTMLtoString" target="_blank">HTMLtoString</a>
 
 #
-![Be-Healthy](Be-Healthy/Be-Heakthy.png)
+![Be-Healthy](Be-Heakthy.png)
 
